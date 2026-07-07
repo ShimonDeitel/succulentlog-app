@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "1001",
+      "localizations": [
+        {
+          "description": "Propagation-lineage tree and cutting-date log",
+          "displayName": "Succulent Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "succulentlog.pro",
+      "referenceName": "Succulent Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
